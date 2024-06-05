@@ -6,7 +6,8 @@
 - The 100k resistor should be placed first in the voltaje divider so when the light is turned of the resistance will increase so the output of the voltage divider is also a larger voltaje.
 - The output of the voltage divider will go the base of the transistor and it'll turn on the diode inside it.
 - The 200 ohm resistor will be conected from vcc to the anode of the led  and the cathode will be connected to the collector of the transistor.
-- The emitter of the transistor is tied directly to ground
+- The emitter of the transistor is tied directly to ground.
+- Finally our led will turn on only when the light goes off.
 
 
 ## Materials
